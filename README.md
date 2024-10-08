@@ -1,7 +1,7 @@
 # BurguerHouse
 
 Desafio de criar um site para restaurante/lanchonete(ficticia), utilizando apenas HTML e CSS.
-Telas: Página inicial, Sobre nós, Cardápio, Contato (Dica: todas essas são páginas html)
+Telas: Página inicial, Sobre nós, Cardápio, Contato.
 
 Página Inicial: Um resumo sobre o site em geral, foto do produto, botoes para realizar pedido e botoes para redes sociais.
 Cardápio: Uma tabela com os pratos, descrição e valor.
